@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "questionText": "Hangisi bir meyve değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Elma",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Muz",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Salatalık",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Portakal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir renk değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Kırmızı",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Sarı",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Mavi",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Küvet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir hayvan değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Köpek",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Kedi",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Karpuz",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Kuş",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir içecek değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Kola",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Su",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Kum",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Çay",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir spor dalı değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Futbol",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Yüzme",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Basketbol",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Pilav",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir gün değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Pazartesi",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Salı",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Perşembe",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Gömlek",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir mevsim değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Bahar",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Yaz",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Kış",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Ayakkabı",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir element değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Hidrojen",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Oksijen",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Demir",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Ekmek",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir ünlü değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Einstein",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Marilyn Monroe",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Limon",
+          "isCorrect": true
+        },
+        {
+          "optionText": "Picasso",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Hangisi bir meyve suyu değildir?",
+      "answerOptions": [
+        {
+          "optionText": "Portakal suyu",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Domates suyu",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Mandalina suyu",
+          "isCorrect": false
+        },
+        {
+          "optionText": "Ayakkabı suyu",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
