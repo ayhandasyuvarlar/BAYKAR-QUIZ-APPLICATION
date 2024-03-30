@@ -1,5 +1,4 @@
 const AnswerTable = (data) => {
-  console.log(data);
   return (
     <>
       {data.data.length > 0 && (
